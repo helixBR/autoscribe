@@ -1,0 +1,3806 @@
+{
+  "version": "5.5-light",
+  "description": "Vocabulario unificado AutoScribe (modo ligero)",
+  "entries": [
+    {
+      "word": "'s",
+      "lang": "en"
+    },
+    {
+      "word": "aa",
+      "lang": "en"
+    },
+    {
+      "word": "aaa",
+      "lang": "en"
+    },
+    {
+      "word": "abilities",
+      "lang": "en"
+    },
+    {
+      "word": "ability",
+      "lang": "en"
+    },
+    {
+      "word": "able",
+      "lang": "en"
+    },
+    {
+      "word": "ably",
+      "lang": "en"
+    },
+    {
+      "word": "abnormal",
+      "lang": "en"
+    },
+    {
+      "word": "about",
+      "lang": "en"
+    },
+    {
+      "word": "absolutely",
+      "lang": "en"
+    },
+    {
+      "word": "ac",
+      "lang": "en"
+    },
+    {
+      "word": "accept",
+      "lang": "en"
+    },
+    {
+      "word": "accepted",
+      "lang": "en"
+    },
+    {
+      "word": "accidentally",
+      "lang": "en"
+    },
+    {
+      "word": "ache",
+      "lang": "en"
+    },
+    {
+      "word": "act",
+      "lang": "en"
+    },
+    {
+      "word": "activate",
+      "lang": "en"
+    },
+    {
+      "word": "actually",
+      "lang": "en"
+    },
+    {
+      "word": "advanced",
+      "lang": "en"
+    },
+    {
+      "word": "ae",
+      "lang": "en"
+    },
+    {
+      "word": "afford",
+      "lang": "en"
+    },
+    {
+      "word": "after",
+      "lang": "en"
+    },
+    {
+      "word": "again",
+      "lang": "en"
+    },
+    {
+      "word": "against",
+      "lang": "en"
+    },
+    {
+      "word": "agile",
+      "lang": "en"
+    },
+    {
+      "word": "agree",
+      "lang": "en"
+    },
+    {
+      "word": "agreed",
+      "lang": "en"
+    },
+    {
+      "word": "ah",
+      "lang": "en"
+    },
+    {
+      "word": "ahead",
+      "lang": "en"
+    },
+    {
+      "word": "ahem",
+      "lang": "en"
+    },
+    {
+      "word": "ahi",
+      "lang": "en"
+    },
+    {
+      "word": "ai",
+      "lang": "en"
+    },
+    {
+      "word": "ail",
+      "lang": "en"
+    },
+    {
+      "word": "aim",
+      "lang": "en"
+    },
+    {
+      "word": "al",
+      "lang": "en"
+    },
+    {
+      "word": "all",
+      "lang": "en"
+    },
+    {
+      "word": "alone",
+      "lang": "en"
+    },
+    {
+      "word": "along",
+      "lang": "en"
+    },
+    {
+      "word": "alright",
+      "lang": "en"
+    },
+    {
+      "word": "also",
+      "lang": "en"
+    },
+    {
+      "word": "although",
+      "lang": "en"
+    },
+    {
+      "word": "always",
+      "lang": "en"
+    },
+    {
+      "word": "am",
+      "lang": "en"
+    },
+    {
+      "word": "amazing",
+      "lang": "en"
+    },
+    {
+      "word": "among",
+      "lang": "en"
+    },
+    {
+      "word": "amplify",
+      "lang": "en"
+    },
+    {
+      "word": "an",
+      "lang": "en"
+    },
+    {
+      "word": "ance",
+      "lang": "en"
+    },
+    {
+      "word": "and",
+      "lang": "en"
+    },
+    {
+      "word": "announce",
+      "lang": "en"
+    },
+    {
+      "word": "another",
+      "lang": "en"
+    },
+    {
+      "word": "answer",
+      "lang": "en"
+    },
+    {
+      "word": "ant",
+      "lang": "en"
+    },
+    {
+      "word": "any",
+      "lang": "en"
+    },
+    {
+      "word": "anymore",
+      "lang": "en"
+    },
+    {
+      "word": "anyone",
+      "lang": "en"
+    },
+    {
+      "word": "anything",
+      "lang": "en"
+    },
+    {
+      "word": "anyway",
+      "lang": "en"
+    },
+    {
+      "word": "app",
+      "lang": "en"
+    },
+    {
+      "word": "appeal",
+      "lang": "en"
+    },
+    {
+      "word": "applies",
+      "lang": "en"
+    },
+    {
+      "word": "appreciate",
+      "lang": "en"
+    },
+    {
+      "word": "ar",
+      "lang": "en"
+    },
+    {
+      "word": "are",
+      "lang": "en"
+    },
+    {
+      "word": "arise",
+      "lang": "en"
+    },
+    {
+      "word": "around",
+      "lang": "en"
+    },
+    {
+      "word": "article",
+      "lang": "en"
+    },
+    {
+      "word": "as",
+      "lang": "en"
+    },
+    {
+      "word": "ask",
+      "lang": "en"
+    },
+    {
+      "word": "ass",
+      "lang": "en"
+    },
+    {
+      "word": "assesses",
+      "lang": "en"
+    },
+    {
+      "word": "at",
+      "lang": "en"
+    },
+    {
+      "word": "attack",
+      "lang": "en"
+    },
+    {
+      "word": "attacked",
+      "lang": "en"
+    },
+    {
+      "word": "attacking",
+      "lang": "en"
+    },
+    {
+      "word": "attacks",
+      "lang": "en"
+    },
+    {
+      "word": "attention",
+      "lang": "en"
+    },
+    {
+      "word": "avoid",
+      "lang": "en"
+    },
+    {
+      "word": "aware",
+      "lang": "en"
+    },
+    {
+      "word": "away",
+      "lang": "en"
+    },
+    {
+      "word": "awe",
+      "lang": "en"
+    },
+    {
+      "word": "awesome",
+      "lang": "en"
+    },
+    {
+      "word": "back",
+      "lang": "en"
+    },
+    {
+      "word": "backed",
+      "lang": "en"
+    },
+    {
+      "word": "backing",
+      "lang": "en"
+    },
+    {
+      "word": "bad",
+      "lang": "en"
+    },
+    {
+      "word": "barely",
+      "lang": "en"
+    },
+    {
+      "word": "based",
+      "lang": "en"
+    },
+    {
+      "word": "battle",
+      "lang": "en"
+    },
+    {
+      "word": "because",
+      "lang": "en"
+    },
+    {
+      "word": "become",
+      "lang": "en"
+    },
+    {
+      "word": "been",
+      "lang": "en"
+    },
+    {
+      "word": "before",
+      "lang": "en"
+    },
+    {
+      "word": "behaved",
+      "lang": "en"
+    },
+    {
+      "word": "being",
+      "lang": "en"
+    },
+    {
+      "word": "believe",
+      "lang": "en"
+    },
+    {
+      "word": "benefit",
+      "lang": "en"
+    },
+    {
+      "word": "best",
+      "lang": "en"
+    },
+    {
+      "word": "bet",
+      "lang": "en"
+    },
+    {
+      "word": "better",
+      "lang": "en"
+    },
+    {
+      "word": "between",
+      "lang": "en"
+    },
+    {
+      "word": "beyond",
+      "lang": "en"
+    },
+    {
+      "word": "big",
+      "lang": "en"
+    },
+    {
+      "word": "bit",
+      "lang": "en"
+    },
+    {
+      "word": "boost",
+      "lang": "en"
+    },
+    {
+      "word": "boosted",
+      "lang": "en"
+    },
+    {
+      "word": "both",
+      "lang": "en"
+    },
+    {
+      "word": "bother",
+      "lang": "en"
+    },
+    {
+      "word": "bound",
+      "lang": "en"
+    },
+    {
+      "word": "bren",
+      "lang": "en"
+    },
+    {
+      "word": "briefly",
+      "lang": "en"
+    },
+    {
+      "word": "bring",
+      "lang": "en"
+    },
+    {
+      "word": "bullets",
+      "lang": "en"
+    },
+    {
+      "word": "business",
+      "lang": "en"
+    },
+    {
+      "word": "bust",
+      "lang": "en"
+    },
+    {
+      "word": "but",
+      "lang": "en"
+    },
+    {
+      "word": "button",
+      "lang": "en"
+    },
+    {
+      "word": "buy",
+      "lang": "en"
+    },
+    {
+      "word": "by",
+      "lang": "en"
+    },
+    {
+      "word": "cafe",
+      "lang": "en"
+    },
+    {
+      "word": "cake",
+      "lang": "en"
+    },
+    {
+      "word": "cal",
+      "lang": "en"
+    },
+    {
+      "word": "call",
+      "lang": "en"
+    },
+    {
+      "word": "came",
+      "lang": "en"
+    },
+    {
+      "word": "can",
+      "lang": "en"
+    },
+    {
+      "word": "cans",
+      "lang": "en"
+    },
+    {
+      "word": "capabilities",
+      "lang": "en"
+    },
+    {
+      "word": "card",
+      "lang": "en"
+    },
+    {
+      "word": "care",
+      "lang": "en"
+    },
+    {
+      "word": "case",
+      "lang": "en"
+    },
+    {
+      "word": "casualties",
+      "lang": "en"
+    },
+    {
+      "word": "certainly",
+      "lang": "en"
+    },
+    {
+      "word": "certified",
+      "lang": "en"
+    },
+    {
+      "word": "cha",
+      "lang": "en"
+    },
+    {
+      "word": "challenges",
+      "lang": "en"
+    },
+    {
+      "word": "challenging",
+      "lang": "en"
+    },
+    {
+      "word": "chance",
+      "lang": "en"
+    },
+    {
+      "word": "change",
+      "lang": "en"
+    },
+    {
+      "word": "choice",
+      "lang": "en"
+    },
+    {
+      "word": "choose",
+      "lang": "en"
+    },
+    {
+      "word": "clearly",
+      "lang": "en"
+    },
+    {
+      "word": "closer",
+      "lang": "en"
+    },
+    {
+      "word": "co",
+      "lang": "en"
+    },
+    {
+      "word": "coffee",
+      "lang": "en"
+    },
+    {
+      "word": "collect",
+      "lang": "en"
+    },
+    {
+      "word": "come",
+      "lang": "en"
+    },
+    {
+      "word": "comics",
+      "lang": "en"
+    },
+    {
+      "word": "common",
+      "lang": "en"
+    },
+    {
+      "word": "completely",
+      "lang": "en"
+    },
+    {
+      "word": "con",
+      "lang": "en"
+    },
+    {
+      "word": "concluded",
+      "lang": "en"
+    },
+    {
+      "word": "confirmed",
+      "lang": "en"
+    },
+    {
+      "word": "conquests",
+      "lang": "en"
+    },
+    {
+      "word": "conscious",
+      "lang": "en"
+    },
+    {
+      "word": "considered",
+      "lang": "en"
+    },
+    {
+      "word": "contrast",
+      "lang": "en"
+    },
+    {
+      "word": "control",
+      "lang": "en"
+    },
+    {
+      "word": "convinced",
+      "lang": "en"
+    },
+    {
+      "word": "cool",
+      "lang": "en"
+    },
+    {
+      "word": "cooperate",
+      "lang": "en"
+    },
+    {
+      "word": "correspondingly",
+      "lang": "en"
+    },
+    {
+      "word": "could",
+      "lang": "en"
+    },
+    {
+      "word": "counting",
+      "lang": "en"
+    },
+    {
+      "word": "countries",
+      "lang": "en"
+    },
+    {
+      "word": "couple",
+      "lang": "en"
+    },
+    {
+      "word": "course",
+      "lang": "en"
+    },
+    {
+      "word": "crazy",
+      "lang": "en"
+    },
+    {
+      "word": "cur",
+      "lang": "en"
+    },
+    {
+      "word": "cut",
+      "lang": "en"
+    },
+    {
+      "word": "cute",
+      "lang": "en"
+    },
+    {
+      "word": "dah",
+      "lang": "en"
+    },
+    {
+      "word": "damaged",
+      "lang": "en"
+    },
+    {
+      "word": "dammit",
+      "lang": "en"
+    },
+    {
+      "word": "damn",
+      "lang": "en"
+    },
+    {
+      "word": "dan",
+      "lang": "en"
+    },
+    {
+      "word": "danger",
+      "lang": "en"
+    },
+    {
+      "word": "dangerous",
+      "lang": "en"
+    },
+    {
+      "word": "dangers",
+      "lang": "en"
+    },
+    {
+      "word": "dark",
+      "lang": "en"
+    },
+    {
+      "word": "date",
+      "lang": "en"
+    },
+    {
+      "word": "day",
+      "lang": "en"
+    },
+    {
+      "word": "days",
+      "lang": "en"
+    },
+    {
+      "word": "dc",
+      "lang": "en"
+    },
+    {
+      "word": "dd",
+      "lang": "en"
+    },
+    {
+      "word": "de",
+      "lang": "en"
+    },
+    {
+      "word": "dear",
+      "lang": "en"
+    },
+    {
+      "word": "death",
+      "lang": "en"
+    },
+    {
+      "word": "decapitate",
+      "lang": "en"
+    },
+    {
+      "word": "decide",
+      "lang": "en"
+    },
+    {
+      "word": "decided",
+      "lang": "en"
+    },
+    {
+      "word": "defeat",
+      "lang": "en"
+    },
+    {
+      "word": "definitely",
+      "lang": "en"
+    },
+    {
+      "word": "definitions",
+      "lang": "en"
+    },
+    {
+      "word": "deflected",
+      "lang": "en"
+    },
+    {
+      "word": "demerit",
+      "lang": "en"
+    },
+    {
+      "word": "depends",
+      "lang": "en"
+    },
+    {
+      "word": "describe",
+      "lang": "en"
+    },
+    {
+      "word": "deserted",
+      "lang": "en"
+    },
+    {
+      "word": "detail",
+      "lang": "en"
+    },
+    {
+      "word": "determined",
+      "lang": "en"
+    },
+    {
+      "word": "device",
+      "lang": "en"
+    },
+    {
+      "word": "df",
+      "lang": "en"
+    },
+    {
+      "word": "diamonds",
+      "lang": "en"
+    },
+    {
+      "word": "dictionary",
+      "lang": "en"
+    },
+    {
+      "word": "did",
+      "lang": "en"
+    },
+    {
+      "word": "die",
+      "lang": "en"
+    },
+    {
+      "word": "differ",
+      "lang": "en"
+    },
+    {
+      "word": "different",
+      "lang": "en"
+    },
+    {
+      "word": "direct",
+      "lang": "en"
+    },
+    {
+      "word": "disappear",
+      "lang": "en"
+    },
+    {
+      "word": "disappearance",
+      "lang": "en"
+    },
+    {
+      "word": "displayed",
+      "lang": "en"
+    },
+    {
+      "word": "distant",
+      "lang": "en"
+    },
+    {
+      "word": "do",
+      "lang": "en"
+    },
+    {
+      "word": "does",
+      "lang": "en"
+    },
+    {
+      "word": "doing",
+      "lang": "en"
+    },
+    {
+      "word": "dom",
+      "lang": "en"
+    },
+    {
+      "word": "domesticate",
+      "lang": "en"
+    },
+    {
+      "word": "don't",
+      "lang": "en"
+    },
+    {
+      "word": "donate",
+      "lang": "en"
+    },
+    {
+      "word": "done",
+      "lang": "en"
+    },
+    {
+      "word": "down",
+      "lang": "en"
+    },
+    {
+      "word": "dragged",
+      "lang": "en"
+    },
+    {
+      "word": "dumb",
+      "lang": "en"
+    },
+    {
+      "word": "dumbass",
+      "lang": "en"
+    },
+    {
+      "word": "dun",
+      "lang": "en"
+    },
+    {
+      "word": "dungeon",
+      "lang": "en"
+    },
+    {
+      "word": "dungeons",
+      "lang": "en"
+    },
+    {
+      "word": "each",
+      "lang": "en"
+    },
+    {
+      "word": "earlier",
+      "lang": "en"
+    },
+    {
+      "word": "early",
+      "lang": "en"
+    },
+    {
+      "word": "easy",
+      "lang": "en"
+    },
+    {
+      "word": "effect",
+      "lang": "en"
+    },
+    {
+      "word": "effort",
+      "lang": "en"
+    },
+    {
+      "word": "eh",
+      "lang": "en"
+    },
+    {
+      "word": "en",
+      "lang": "en"
+    },
+    {
+      "word": "encounter",
+      "lang": "en"
+    },
+    {
+      "word": "enhances",
+      "lang": "en"
+    },
+    {
+      "word": "enjoy",
+      "lang": "en"
+    },
+    {
+      "word": "enough",
+      "lang": "en"
+    },
+    {
+      "word": "ent",
+      "lang": "en"
+    },
+    {
+      "word": "enter",
+      "lang": "en"
+    },
+    {
+      "word": "entered",
+      "lang": "en"
+    },
+    {
+      "word": "entity",
+      "lang": "en"
+    },
+    {
+      "word": "er",
+      "lang": "en"
+    },
+    {
+      "word": "erase",
+      "lang": "en"
+    },
+    {
+      "word": "es",
+      "lang": "en"
+    },
+    {
+      "word": "escape",
+      "lang": "en"
+    },
+    {
+      "word": "et",
+      "lang": "en"
+    },
+    {
+      "word": "even",
+      "lang": "en"
+    },
+    {
+      "word": "ever",
+      "lang": "en"
+    },
+    {
+      "word": "everyone",
+      "lang": "en"
+    },
+    {
+      "word": "everything",
+      "lang": "en"
+    },
+    {
+      "word": "evidence",
+      "lang": "en"
+    },
+    {
+      "word": "exam",
+      "lang": "en"
+    },
+    {
+      "word": "excuse",
+      "lang": "en"
+    },
+    {
+      "word": "excuses",
+      "lang": "en"
+    },
+    {
+      "word": "existence",
+      "lang": "en"
+    },
+    {
+      "word": "exit",
+      "lang": "en"
+    },
+    {
+      "word": "expect",
+      "lang": "en"
+    },
+    {
+      "word": "experience",
+      "lang": "en"
+    },
+    {
+      "word": "extraordinary",
+      "lang": "en"
+    },
+    {
+      "word": "eye",
+      "lang": "en"
+    },
+    {
+      "word": "fa",
+      "lang": "en"
+    },
+    {
+      "word": "face",
+      "lang": "en"
+    },
+    {
+      "word": "fact",
+      "lang": "en"
+    },
+    {
+      "word": "fail",
+      "lang": "en"
+    },
+    {
+      "word": "faint",
+      "lang": "en"
+    },
+    {
+      "word": "familiar",
+      "lang": "en"
+    },
+    {
+      "word": "familiars",
+      "lang": "en"
+    },
+    {
+      "word": "famous",
+      "lang": "en"
+    },
+    {
+      "word": "far",
+      "lang": "en"
+    },
+    {
+      "word": "fastest",
+      "lang": "en"
+    },
+    {
+      "word": "fault",
+      "lang": "en"
+    },
+    {
+      "word": "fay",
+      "lang": "en"
+    },
+    {
+      "word": "fed",
+      "lang": "en"
+    },
+    {
+      "word": "feel",
+      "lang": "en"
+    },
+    {
+      "word": "feeling",
+      "lang": "en"
+    },
+    {
+      "word": "fen",
+      "lang": "en"
+    },
+    {
+      "word": "few",
+      "lang": "en"
+    },
+    {
+      "word": "field",
+      "lang": "en"
+    },
+    {
+      "word": "fight",
+      "lang": "en"
+    },
+    {
+      "word": "fin",
+      "lang": "en"
+    },
+    {
+      "word": "finally",
+      "lang": "en"
+    },
+    {
+      "word": "find",
+      "lang": "en"
+    },
+    {
+      "word": "fine",
+      "lang": "en"
+    },
+    {
+      "word": "fire",
+      "lang": "en"
+    },
+    {
+      "word": "first",
+      "lang": "en"
+    },
+    {
+      "word": "five",
+      "lang": "en"
+    },
+    {
+      "word": "focus",
+      "lang": "en"
+    },
+    {
+      "word": "foe",
+      "lang": "en"
+    },
+    {
+      "word": "follow",
+      "lang": "en"
+    },
+    {
+      "word": "fools",
+      "lang": "en"
+    },
+    {
+      "word": "force",
+      "lang": "en"
+    },
+    {
+      "word": "forced",
+      "lang": "en"
+    },
+    {
+      "word": "forever",
+      "lang": "en"
+    },
+    {
+      "word": "forget",
+      "lang": "en"
+    },
+    {
+      "word": "fr",
+      "lang": "en"
+    },
+    {
+      "word": "frau",
+      "lang": "en"
+    },
+    {
+      "word": "fraud",
+      "lang": "en"
+    },
+    {
+      "word": "free",
+      "lang": "en"
+    },
+    {
+      "word": "friend",
+      "lang": "en"
+    },
+    {
+      "word": "from",
+      "lang": "en"
+    },
+    {
+      "word": "fry",
+      "lang": "en"
+    },
+    {
+      "word": "ft",
+      "lang": "en"
+    },
+    {
+      "word": "fufu",
+      "lang": "en"
+    },
+    {
+      "word": "fully",
+      "lang": "en"
+    },
+    {
+      "word": "future",
+      "lang": "en"
+    },
+    {
+      "word": "fy",
+      "lang": "en"
+    },
+    {
+      "word": "gains",
+      "lang": "en"
+    },
+    {
+      "word": "get",
+      "lang": "en"
+    },
+    {
+      "word": "getting",
+      "lang": "en"
+    },
+    {
+      "word": "gh",
+      "lang": "en"
+    },
+    {
+      "word": "gi",
+      "lang": "en"
+    },
+    {
+      "word": "girl",
+      "lang": "en"
+    },
+    {
+      "word": "give",
+      "lang": "en"
+    },
+    {
+      "word": "gives",
+      "lang": "en"
+    },
+    {
+      "word": "glad",
+      "lang": "en"
+    },
+    {
+      "word": "go",
+      "lang": "en"
+    },
+    {
+      "word": "goblin",
+      "lang": "en"
+    },
+    {
+      "word": "goes",
+      "lang": "en"
+    },
+    {
+      "word": "going",
+      "lang": "en"
+    },
+    {
+      "word": "good",
+      "lang": "en"
+    },
+    {
+      "word": "goods",
+      "lang": "en"
+    },
+    {
+      "word": "gossips",
+      "lang": "en"
+    },
+    {
+      "word": "got",
+      "lang": "en"
+    },
+    {
+      "word": "gotten",
+      "lang": "en"
+    },
+    {
+      "word": "gr",
+      "lang": "en"
+    },
+    {
+      "word": "great",
+      "lang": "en"
+    },
+    {
+      "word": "greater",
+      "lang": "en"
+    },
+    {
+      "word": "groups",
+      "lang": "en"
+    },
+    {
+      "word": "grow",
+      "lang": "en"
+    },
+    {
+      "word": "grownup",
+      "lang": "en"
+    },
+    {
+      "word": "guard",
+      "lang": "en"
+    },
+    {
+      "word": "guess",
+      "lang": "en"
+    },
+    {
+      "word": "guessed",
+      "lang": "en"
+    },
+    {
+      "word": "guild",
+      "lang": "en"
+    },
+    {
+      "word": "guy",
+      "lang": "en"
+    },
+    {
+      "word": "guys",
+      "lang": "en"
+    },
+    {
+      "word": "ha",
+      "lang": "en"
+    },
+    {
+      "word": "had",
+      "lang": "en"
+    },
+    {
+      "word": "hand",
+      "lang": "en"
+    },
+    {
+      "word": "handle",
+      "lang": "en"
+    },
+    {
+      "word": "hands",
+      "lang": "en"
+    },
+    {
+      "word": "hanging",
+      "lang": "en"
+    },
+    {
+      "word": "hap",
+      "lang": "en"
+    },
+    {
+      "word": "happen",
+      "lang": "en"
+    },
+    {
+      "word": "happened",
+      "lang": "en"
+    },
+    {
+      "word": "hard",
+      "lang": "en"
+    },
+    {
+      "word": "harmless",
+      "lang": "en"
+    },
+    {
+      "word": "has",
+      "lang": "en"
+    },
+    {
+      "word": "hat",
+      "lang": "en"
+    },
+    {
+      "word": "have",
+      "lang": "en"
+    },
+    {
+      "word": "he",
+      "lang": "en"
+    },
+    {
+      "word": "hear",
+      "lang": "en"
+    },
+    {
+      "word": "heard",
+      "lang": "en"
+    },
+    {
+      "word": "hearing",
+      "lang": "en"
+    },
+    {
+      "word": "heck",
+      "lang": "en"
+    },
+    {
+      "word": "helix",
+      "lang": "en"
+    },
+    {
+      "word": "hello",
+      "lang": "en"
+    },
+    {
+      "word": "help",
+      "lang": "en"
+    },
+    {
+      "word": "helped",
+      "lang": "en"
+    },
+    {
+      "word": "her",
+      "lang": "en"
+    },
+    {
+      "word": "here",
+      "lang": "en"
+    },
+    {
+      "word": "hero",
+      "lang": "en"
+    },
+    {
+      "word": "hesitates",
+      "lang": "en"
+    },
+    {
+      "word": "hey",
+      "lang": "en"
+    },
+    {
+      "word": "hide",
+      "lang": "en"
+    },
+    {
+      "word": "high",
+      "lang": "en"
+    },
+    {
+      "word": "highest",
+      "lang": "en"
+    },
+    {
+      "word": "him",
+      "lang": "en"
+    },
+    {
+      "word": "hir",
+      "lang": "en"
+    },
+    {
+      "word": "hires",
+      "lang": "en"
+    },
+    {
+      "word": "his",
+      "lang": "en"
+    },
+    {
+      "word": "hit",
+      "lang": "en"
+    },
+    {
+      "word": "hitting",
+      "lang": "en"
+    },
+    {
+      "word": "hm",
+      "lang": "en"
+    },
+    {
+      "word": "hmm",
+      "lang": "en"
+    },
+    {
+      "word": "ho",
+      "lang": "en"
+    },
+    {
+      "word": "hold",
+      "lang": "en"
+    },
+    {
+      "word": "hole",
+      "lang": "en"
+    },
+    {
+      "word": "home",
+      "lang": "en"
+    },
+    {
+      "word": "honest",
+      "lang": "en"
+    },
+    {
+      "word": "honestly",
+      "lang": "en"
+    },
+    {
+      "word": "hook",
+      "lang": "en"
+    },
+    {
+      "word": "hosted",
+      "lang": "en"
+    },
+    {
+      "word": "hostile",
+      "lang": "en"
+    },
+    {
+      "word": "how",
+      "lang": "en"
+    },
+    {
+      "word": "huge",
+      "lang": "en"
+    },
+    {
+      "word": "huh",
+      "lang": "en"
+    },
+    {
+      "word": "human",
+      "lang": "en"
+    },
+    {
+      "word": "humans",
+      "lang": "en"
+    },
+    {
+      "word": "hurt",
+      "lang": "en"
+    },
+    {
+      "word": "hyped",
+      "lang": "en"
+    },
+    {
+      "word": "id",
+      "lang": "en"
+    },
+    {
+      "word": "idea",
+      "lang": "en"
+    },
+    {
+      "word": "idiot",
+      "lang": "en"
+    },
+    {
+      "word": "ie",
+      "lang": "en"
+    },
+    {
+      "word": "if",
+      "lang": "en"
+    },
+    {
+      "word": "ignore",
+      "lang": "en"
+    },
+    {
+      "word": "ile",
+      "lang": "en"
+    },
+    {
+      "word": "impact",
+      "lang": "en"
+    },
+    {
+      "word": "impressive",
+      "lang": "en"
+    },
+    {
+      "word": "improvement",
+      "lang": "en"
+    },
+    {
+      "word": "in",
+      "lang": "en"
+    },
+    {
+      "word": "including",
+      "lang": "en"
+    },
+    {
+      "word": "incredibly",
+      "lang": "en"
+    },
+    {
+      "word": "individual",
+      "lang": "en"
+    },
+    {
+      "word": "influential",
+      "lang": "en"
+    },
+    {
+      "word": "ing",
+      "lang": "en"
+    },
+    {
+      "word": "injured",
+      "lang": "en"
+    },
+    {
+      "word": "inside",
+      "lang": "en"
+    },
+    {
+      "word": "instead",
+      "lang": "en"
+    },
+    {
+      "word": "inter",
+      "lang": "en"
+    },
+    {
+      "word": "interested",
+      "lang": "en"
+    },
+    {
+      "word": "interesting",
+      "lang": "en"
+    },
+    {
+      "word": "intermediate",
+      "lang": "en"
+    },
+    {
+      "word": "interview",
+      "lang": "en"
+    },
+    {
+      "word": "into",
+      "lang": "en"
+    },
+    {
+      "word": "inviting",
+      "lang": "en"
+    },
+    {
+      "word": "ish",
+      "lang": "en"
+    },
+    {
+      "word": "isn't",
+      "lang": "en"
+    },
+    {
+      "word": "issuance",
+      "lang": "en"
+    },
+    {
+      "word": "it",
+      "lang": "en"
+    },
+    {
+      "word": "item",
+      "lang": "en"
+    },
+    {
+      "word": "itself",
+      "lang": "en"
+    },
+    {
+      "word": "ja",
+      "lang": "en"
+    },
+    {
+      "word": "jit",
+      "lang": "en"
+    },
+    {
+      "word": "joined",
+      "lang": "en"
+    },
+    {
+      "word": "journalist",
+      "lang": "en"
+    },
+    {
+      "word": "jus",
+      "lang": "en"
+    },
+    {
+      "word": "just",
+      "lang": "en"
+    },
+    {
+      "word": "keep",
+      "lang": "en"
+    },
+    {
+      "word": "kept",
+      "lang": "en"
+    },
+    {
+      "word": "ki",
+      "lang": "en"
+    },
+    {
+      "word": "kidding",
+      "lang": "en"
+    },
+    {
+      "word": "kill",
+      "lang": "en"
+    },
+    {
+      "word": "killed",
+      "lang": "en"
+    },
+    {
+      "word": "killing",
+      "lang": "en"
+    },
+    {
+      "word": "kin",
+      "lang": "en"
+    },
+    {
+      "word": "kind",
+      "lang": "en"
+    },
+    {
+      "word": "kindness",
+      "lang": "en"
+    },
+    {
+      "word": "kinds",
+      "lang": "en"
+    },
+    {
+      "word": "kingdom",
+      "lang": "en"
+    },
+    {
+      "word": "knew",
+      "lang": "en"
+    },
+    {
+      "word": "know",
+      "lang": "en"
+    },
+    {
+      "word": "knowing",
+      "lang": "en"
+    },
+    {
+      "word": "known",
+      "lang": "en"
+    },
+    {
+      "word": "kt",
+      "lang": "en"
+    },
+    {
+      "word": "ky",
+      "lang": "en"
+    },
+    {
+      "word": "la",
+      "lang": "en"
+    },
+    {
+      "word": "late",
+      "lang": "en"
+    },
+    {
+      "word": "later",
+      "lang": "en"
+    },
+    {
+      "word": "le",
+      "lang": "en"
+    },
+    {
+      "word": "learned",
+      "lang": "en"
+    },
+    {
+      "word": "least",
+      "lang": "en"
+    },
+    {
+      "word": "leave",
+      "lang": "en"
+    },
+    {
+      "word": "left",
+      "lang": "en"
+    },
+    {
+      "word": "less",
+      "lang": "en"
+    },
+    {
+      "word": "let",
+      "lang": "en"
+    },
+    {
+      "word": "let's",
+      "lang": "en"
+    },
+    {
+      "word": "lets",
+      "lang": "en"
+    },
+    {
+      "word": "letting",
+      "lang": "en"
+    },
+    {
+      "word": "level",
+      "lang": "en"
+    },
+    {
+      "word": "lf",
+      "lang": "en"
+    },
+    {
+      "word": "li",
+      "lang": "en"
+    },
+    {
+      "word": "license",
+      "lang": "en"
+    },
+    {
+      "word": "lies",
+      "lang": "en"
+    },
+    {
+      "word": "lifted",
+      "lang": "en"
+    },
+    {
+      "word": "light",
+      "lang": "en"
+    },
+    {
+      "word": "lightning",
+      "lang": "en"
+    },
+    {
+      "word": "like",
+      "lang": "en"
+    },
+    {
+      "word": "likely",
+      "lang": "en"
+    },
+    {
+      "word": "limit",
+      "lang": "en"
+    },
+    {
+      "word": "ling",
+      "lang": "en"
+    },
+    {
+      "word": "lis",
+      "lang": "en"
+    },
+    {
+      "word": "listened",
+      "lang": "en"
+    },
+    {
+      "word": "living",
+      "lang": "en"
+    },
+    {
+      "word": "lo",
+      "lang": "en"
+    },
+    {
+      "word": "long",
+      "lang": "en"
+    },
+    {
+      "word": "looks",
+      "lang": "en"
+    },
+    {
+      "word": "loose",
+      "lang": "en"
+    },
+    {
+      "word": "lot",
+      "lang": "en"
+    },
+    {
+      "word": "love",
+      "lang": "en"
+    },
+    {
+      "word": "ls",
+      "lang": "en"
+    },
+    {
+      "word": "luck",
+      "lang": "en"
+    },
+    {
+      "word": "lucky",
+      "lang": "en"
+    },
+    {
+      "word": "ma",
+      "lang": "en"
+    },
+    {
+      "word": "made",
+      "lang": "en"
+    },
+    {
+      "word": "magic",
+      "lang": "en"
+    },
+    {
+      "word": "make",
+      "lang": "en"
+    },
+    {
+      "word": "makes",
+      "lang": "en"
+    },
+    {
+      "word": "making",
+      "lang": "en"
+    },
+    {
+      "word": "mana",
+      "lang": "en"
+    },
+    {
+      "word": "manding",
+      "lang": "en"
+    },
+    {
+      "word": "many",
+      "lang": "en"
+    },
+    {
+      "word": "mas",
+      "lang": "en"
+    },
+    {
+      "word": "masses",
+      "lang": "en"
+    },
+    {
+      "word": "mate",
+      "lang": "en"
+    },
+    {
+      "word": "material",
+      "lang": "en"
+    },
+    {
+      "word": "matter",
+      "lang": "en"
+    },
+    {
+      "word": "matters",
+      "lang": "en"
+    },
+    {
+      "word": "maximum",
+      "lang": "en"
+    },
+    {
+      "word": "may",
+      "lang": "en"
+    },
+    {
+      "word": "maybe",
+      "lang": "en"
+    },
+    {
+      "word": "mazing",
+      "lang": "en"
+    },
+    {
+      "word": "me",
+      "lang": "en"
+    },
+    {
+      "word": "mean",
+      "lang": "en"
+    },
+    {
+      "word": "meant",
+      "lang": "en"
+    },
+    {
+      "word": "measurement",
+      "lang": "en"
+    },
+    {
+      "word": "meet",
+      "lang": "en"
+    },
+    {
+      "word": "meeting",
+      "lang": "en"
+    },
+    {
+      "word": "men",
+      "lang": "en"
+    },
+    {
+      "word": "ment",
+      "lang": "en"
+    },
+    {
+      "word": "mention",
+      "lang": "en"
+    },
+    {
+      "word": "mess",
+      "lang": "en"
+    },
+    {
+      "word": "message",
+      "lang": "en"
+    },
+    {
+      "word": "messed",
+      "lang": "en"
+    },
+    {
+      "word": "messing",
+      "lang": "en"
+    },
+    {
+      "word": "mi",
+      "lang": "en"
+    },
+    {
+      "word": "middle",
+      "lang": "en"
+    },
+    {
+      "word": "might",
+      "lang": "en"
+    },
+    {
+      "word": "mind",
+      "lang": "en"
+    },
+    {
+      "word": "minimize",
+      "lang": "en"
+    },
+    {
+      "word": "missing",
+      "lang": "en"
+    },
+    {
+      "word": "mister",
+      "lang": "en"
+    },
+    {
+      "word": "mm",
+      "lang": "en"
+    },
+    {
+      "word": "mn",
+      "lang": "en"
+    },
+    {
+      "word": "mobs",
+      "lang": "en"
+    },
+    {
+      "word": "mom",
+      "lang": "en"
+    },
+    {
+      "word": "monster",
+      "lang": "en"
+    },
+    {
+      "word": "monsters",
+      "lang": "en"
+    },
+    {
+      "word": "more",
+      "lang": "en"
+    },
+    {
+      "word": "most",
+      "lang": "en"
+    },
+    {
+      "word": "move",
+      "lang": "en"
+    },
+    {
+      "word": "moving",
+      "lang": "en"
+    },
+    {
+      "word": "much",
+      "lang": "en"
+    },
+    {
+      "word": "must",
+      "lang": "en"
+    },
+    {
+      "word": "my",
+      "lang": "en"
+    },
+    {
+      "word": "naturally",
+      "lang": "en"
+    },
+    {
+      "word": "nd",
+      "lang": "en"
+    },
+    {
+      "word": "ne",
+      "lang": "en"
+    },
+    {
+      "word": "near",
+      "lang": "en"
+    },
+    {
+      "word": "necessary",
+      "lang": "en"
+    },
+    {
+      "word": "need",
+      "lang": "en"
+    },
+    {
+      "word": "never",
+      "lang": "en"
+    },
+    {
+      "word": "news",
+      "lang": "en"
+    },
+    {
+      "word": "newspaper",
+      "lang": "en"
+    },
+    {
+      "word": "ni",
+      "lang": "en"
+    },
+    {
+      "word": "nice",
+      "lang": "en"
+    },
+    {
+      "word": "nicely",
+      "lang": "en"
+    },
+    {
+      "word": "no",
+      "lang": "en"
+    },
+    {
+      "word": "nobody",
+      "lang": "en"
+    },
+    {
+      "word": "non",
+      "lang": "en"
+    },
+    {
+      "word": "normal",
+      "lang": "en"
+    },
+    {
+      "word": "not",
+      "lang": "en"
+    },
+    {
+      "word": "notice",
+      "lang": "en"
+    },
+    {
+      "word": "now",
+      "lang": "en"
+    },
+    {
+      "word": "number",
+      "lang": "en"
+    },
+    {
+      "word": "obvious",
+      "lang": "en"
+    },
+    {
+      "word": "obviously",
+      "lang": "en"
+    },
+    {
+      "word": "occur",
+      "lang": "en"
+    },
+    {
+      "word": "of",
+      "lang": "en"
+    },
+    {
+      "word": "off",
+      "lang": "en"
+    },
+    {
+      "word": "offer",
+      "lang": "en"
+    },
+    {
+      "word": "often",
+      "lang": "en"
+    },
+    {
+      "word": "ogre",
+      "lang": "en"
+    },
+    {
+      "word": "oh",
+      "lang": "en"
+    },
+    {
+      "word": "okay",
+      "lang": "en"
+    },
+    {
+      "word": "om",
+      "lang": "en"
+    },
+    {
+      "word": "on",
+      "lang": "en"
+    },
+    {
+      "word": "once",
+      "lang": "en"
+    },
+    {
+      "word": "one",
+      "lang": "en"
+    },
+    {
+      "word": "only",
+      "lang": "en"
+    },
+    {
+      "word": "oo",
+      "lang": "en"
+    },
+    {
+      "word": "ooh",
+      "lang": "en"
+    },
+    {
+      "word": "opponent",
+      "lang": "en"
+    },
+    {
+      "word": "opportunity",
+      "lang": "en"
+    },
+    {
+      "word": "or",
+      "lang": "en"
+    },
+    {
+      "word": "orc",
+      "lang": "en"
+    },
+    {
+      "word": "orcs",
+      "lang": "en"
+    },
+    {
+      "word": "other",
+      "lang": "en"
+    },
+    {
+      "word": "others",
+      "lang": "en"
+    },
+    {
+      "word": "ou",
+      "lang": "en"
+    },
+    {
+      "word": "ourselves",
+      "lang": "en"
+    },
+    {
+      "word": "ous",
+      "lang": "en"
+    },
+    {
+      "word": "out",
+      "lang": "en"
+    },
+    {
+      "word": "over",
+      "lang": "en"
+    },
+    {
+      "word": "overwhelming",
+      "lang": "en"
+    },
+    {
+      "word": "own",
+      "lang": "en"
+    },
+    {
+      "word": "pa",
+      "lang": "en"
+    },
+    {
+      "word": "pair",
+      "lang": "en"
+    },
+    {
+      "word": "parents",
+      "lang": "en"
+    },
+    {
+      "word": "part",
+      "lang": "en"
+    },
+    {
+      "word": "partner",
+      "lang": "en"
+    },
+    {
+      "word": "pass",
+      "lang": "en"
+    },
+    {
+      "word": "passed",
+      "lang": "en"
+    },
+    {
+      "word": "path",
+      "lang": "en"
+    },
+    {
+      "word": "pay",
+      "lang": "en"
+    },
+    {
+      "word": "pens",
+      "lang": "en"
+    },
+    {
+      "word": "people",
+      "lang": "en"
+    },
+    {
+      "word": "person",
+      "lang": "en"
+    },
+    {
+      "word": "phew",
+      "lang": "en"
+    },
+    {
+      "word": "pictures",
+      "lang": "en"
+    },
+    {
+      "word": "piece",
+      "lang": "en"
+    },
+    {
+      "word": "pig",
+      "lang": "en"
+    },
+    {
+      "word": "place",
+      "lang": "en"
+    },
+    {
+      "word": "plan",
+      "lang": "en"
+    },
+    {
+      "word": "plans",
+      "lang": "en"
+    },
+    {
+      "word": "players",
+      "lang": "en"
+    },
+    {
+      "word": "playthings",
+      "lang": "en"
+    },
+    {
+      "word": "please",
+      "lang": "en"
+    },
+    {
+      "word": "po",
+      "lang": "en"
+    },
+    {
+      "word": "point",
+      "lang": "en"
+    },
+    {
+      "word": "popular",
+      "lang": "en"
+    },
+    {
+      "word": "pos",
+      "lang": "en"
+    },
+    {
+      "word": "possible",
+      "lang": "en"
+    },
+    {
+      "word": "power",
+      "lang": "en"
+    },
+    {
+      "word": "powerful",
+      "lang": "en"
+    },
+    {
+      "word": "powers",
+      "lang": "en"
+    },
+    {
+      "word": "presence",
+      "lang": "en"
+    },
+    {
+      "word": "pretty",
+      "lang": "en"
+    },
+    {
+      "word": "prey",
+      "lang": "en"
+    },
+    {
+      "word": "price",
+      "lang": "en"
+    },
+    {
+      "word": "pro",
+      "lang": "en"
+    },
+    {
+      "word": "prob",
+      "lang": "en"
+    },
+    {
+      "word": "probably",
+      "lang": "en"
+    },
+    {
+      "word": "problem",
+      "lang": "en"
+    },
+    {
+      "word": "procedure",
+      "lang": "en"
+    },
+    {
+      "word": "properly",
+      "lang": "en"
+    },
+    {
+      "word": "pros",
+      "lang": "en"
+    },
+    {
+      "word": "protect",
+      "lang": "en"
+    },
+    {
+      "word": "protected",
+      "lang": "en"
+    },
+    {
+      "word": "proven",
+      "lang": "en"
+    },
+    {
+      "word": "provide",
+      "lang": "en"
+    },
+    {
+      "word": "punch",
+      "lang": "en"
+    },
+    {
+      "word": "punish",
+      "lang": "en"
+    },
+    {
+      "word": "push",
+      "lang": "en"
+    },
+    {
+      "word": "put",
+      "lang": "en"
+    },
+    {
+      "word": "quantum",
+      "lang": "en"
+    },
+    {
+      "word": "question",
+      "lang": "en"
+    },
+    {
+      "word": "questions",
+      "lang": "en"
+    },
+    {
+      "word": "quit",
+      "lang": "en"
+    },
+    {
+      "word": "raise",
+      "lang": "en"
+    },
+    {
+      "word": "raised",
+      "lang": "en"
+    },
+    {
+      "word": "rank",
+      "lang": "en"
+    },
+    {
+      "word": "rankers",
+      "lang": "en"
+    },
+    {
+      "word": "ranks",
+      "lang": "en"
+    },
+    {
+      "word": "rare",
+      "lang": "en"
+    },
+    {
+      "word": "re",
+      "lang": "en"
+    },
+    {
+      "word": "reach",
+      "lang": "en"
+    },
+    {
+      "word": "reaction",
+      "lang": "en"
+    },
+    {
+      "word": "read",
+      "lang": "en"
+    },
+    {
+      "word": "readily",
+      "lang": "en"
+    },
+    {
+      "word": "ready",
+      "lang": "en"
+    },
+    {
+      "word": "real",
+      "lang": "en"
+    },
+    {
+      "word": "really",
+      "lang": "en"
+    },
+    {
+      "word": "receives",
+      "lang": "en"
+    },
+    {
+      "word": "recently",
+      "lang": "en"
+    },
+    {
+      "word": "reckless",
+      "lang": "en"
+    },
+    {
+      "word": "recognized",
+      "lang": "en"
+    },
+    {
+      "word": "regarding",
+      "lang": "en"
+    },
+    {
+      "word": "regardless",
+      "lang": "en"
+    },
+    {
+      "word": "relate",
+      "lang": "en"
+    },
+    {
+      "word": "related",
+      "lang": "en"
+    },
+    {
+      "word": "relationship",
+      "lang": "en"
+    },
+    {
+      "word": "relax",
+      "lang": "en"
+    },
+    {
+      "word": "release",
+      "lang": "en"
+    },
+    {
+      "word": "released",
+      "lang": "en"
+    },
+    {
+      "word": "releases",
+      "lang": "en"
+    },
+    {
+      "word": "remain",
+      "lang": "en"
+    },
+    {
+      "word": "rent",
+      "lang": "en"
+    },
+    {
+      "word": "reservations",
+      "lang": "en"
+    },
+    {
+      "word": "reset",
+      "lang": "en"
+    },
+    {
+      "word": "responsible",
+      "lang": "en"
+    },
+    {
+      "word": "rest",
+      "lang": "en"
+    },
+    {
+      "word": "restrained",
+      "lang": "en"
+    },
+    {
+      "word": "results",
+      "lang": "en"
+    },
+    {
+      "word": "retreat",
+      "lang": "en"
+    },
+    {
+      "word": "reveal",
+      "lang": "en"
+    },
+    {
+      "word": "rich",
+      "lang": "en"
+    },
+    {
+      "word": "right",
+      "lang": "en"
+    },
+    {
+      "word": "rill",
+      "lang": "en"
+    },
+    {
+      "word": "risk",
+      "lang": "en"
+    },
+    {
+      "word": "risking",
+      "lang": "en"
+    },
+    {
+      "word": "road",
+      "lang": "en"
+    },
+    {
+      "word": "rookie",
+      "lang": "en"
+    },
+    {
+      "word": "room",
+      "lang": "en"
+    },
+    {
+      "word": "root",
+      "lang": "en"
+    },
+    {
+      "word": "rough",
+      "lang": "en"
+    },
+    {
+      "word": "roughly",
+      "lang": "en"
+    },
+    {
+      "word": "rubbing",
+      "lang": "en"
+    },
+    {
+      "word": "run",
+      "lang": "en"
+    },
+    {
+      "word": "safe",
+      "lang": "en"
+    },
+    {
+      "word": "said",
+      "lang": "en"
+    },
+    {
+      "word": "same",
+      "lang": "en"
+    },
+    {
+      "word": "san",
+      "lang": "en"
+    },
+    {
+      "word": "say",
+      "lang": "en"
+    },
+    {
+      "word": "saying",
+      "lang": "en"
+    },
+    {
+      "word": "scan",
+      "lang": "en"
+    },
+    {
+      "word": "scans",
+      "lang": "en"
+    },
+    {
+      "word": "scared",
+      "lang": "en"
+    },
+    {
+      "word": "scary",
+      "lang": "en"
+    },
+    {
+      "word": "school",
+      "lang": "en"
+    },
+    {
+      "word": "scramble",
+      "lang": "en"
+    },
+    {
+      "word": "scrub",
+      "lang": "en"
+    },
+    {
+      "word": "scrubs",
+      "lang": "en"
+    },
+    {
+      "word": "se",
+      "lang": "en"
+    },
+    {
+      "word": "second",
+      "lang": "en"
+    },
+    {
+      "word": "see",
+      "lang": "en"
+    },
+    {
+      "word": "seem",
+      "lang": "en"
+    },
+    {
+      "word": "seems",
+      "lang": "en"
+    },
+    {
+      "word": "seen",
+      "lang": "en"
+    },
+    {
+      "word": "sell",
+      "lang": "en"
+    },
+    {
+      "word": "sense",
+      "lang": "en"
+    },
+    {
+      "word": "sensitive",
+      "lang": "en"
+    },
+    {
+      "word": "serious",
+      "lang": "en"
+    },
+    {
+      "word": "seriously",
+      "lang": "en"
+    },
+    {
+      "word": "shameful",
+      "lang": "en"
+    },
+    {
+      "word": "shat",
+      "lang": "en"
+    },
+    {
+      "word": "she",
+      "lang": "en"
+    },
+    {
+      "word": "sheer",
+      "lang": "en"
+    },
+    {
+      "word": "shit",
+      "lang": "en"
+    },
+    {
+      "word": "short",
+      "lang": "en"
+    },
+    {
+      "word": "should",
+      "lang": "en"
+    },
+    {
+      "word": "shoulders",
+      "lang": "en"
+    },
+    {
+      "word": "show",
+      "lang": "en"
+    },
+    {
+      "word": "showing",
+      "lang": "en"
+    },
+    {
+      "word": "shut",
+      "lang": "en"
+    },
+    {
+      "word": "si",
+      "lang": "en"
+    },
+    {
+      "word": "sick",
+      "lang": "en"
+    },
+    {
+      "word": "sides",
+      "lang": "en"
+    },
+    {
+      "word": "sight",
+      "lang": "en"
+    },
+    {
+      "word": "simple",
+      "lang": "en"
+    },
+    {
+      "word": "simply",
+      "lang": "en"
+    },
+    {
+      "word": "simultaneously",
+      "lang": "en"
+    },
+    {
+      "word": "since",
+      "lang": "en"
+    },
+    {
+      "word": "sincerely",
+      "lang": "en"
+    },
+    {
+      "word": "situation",
+      "lang": "en"
+    },
+    {
+      "word": "skill",
+      "lang": "en"
+    },
+    {
+      "word": "skills",
+      "lang": "en"
+    },
+    {
+      "word": "slave",
+      "lang": "en"
+    },
+    {
+      "word": "slowly",
+      "lang": "en"
+    },
+    {
+      "word": "small",
+      "lang": "en"
+    },
+    {
+      "word": "so",
+      "lang": "en"
+    },
+    {
+      "word": "solely",
+      "lang": "en"
+    },
+    {
+      "word": "some",
+      "lang": "en"
+    },
+    {
+      "word": "someone",
+      "lang": "en"
+    },
+    {
+      "word": "something",
+      "lang": "en"
+    },
+    {
+      "word": "sometime",
+      "lang": "en"
+    },
+    {
+      "word": "somewhere",
+      "lang": "en"
+    },
+    {
+      "word": "soon",
+      "lang": "en"
+    },
+    {
+      "word": "sorry",
+      "lang": "en"
+    },
+    {
+      "word": "sort",
+      "lang": "en"
+    },
+    {
+      "word": "sound",
+      "lang": "en"
+    },
+    {
+      "word": "sounds",
+      "lang": "en"
+    },
+    {
+      "word": "speaking",
+      "lang": "en"
+    },
+    {
+      "word": "speed",
+      "lang": "en"
+    },
+    {
+      "word": "spirit",
+      "lang": "en"
+    },
+    {
+      "word": "sponsors",
+      "lang": "en"
+    },
+    {
+      "word": "staff",
+      "lang": "en"
+    },
+    {
+      "word": "stances",
+      "lang": "en"
+    },
+    {
+      "word": "stand",
+      "lang": "en"
+    },
+    {
+      "word": "standing",
+      "lang": "en"
+    },
+    {
+      "word": "standings",
+      "lang": "en"
+    },
+    {
+      "word": "start",
+      "lang": "en"
+    },
+    {
+      "word": "stat",
+      "lang": "en"
+    },
+    {
+      "word": "state",
+      "lang": "en"
+    },
+    {
+      "word": "stats",
+      "lang": "en"
+    },
+    {
+      "word": "status",
+      "lang": "en"
+    },
+    {
+      "word": "still",
+      "lang": "en"
+    },
+    {
+      "word": "stomach",
+      "lang": "en"
+    },
+    {
+      "word": "stone",
+      "lang": "en"
+    },
+    {
+      "word": "stones",
+      "lang": "en"
+    },
+    {
+      "word": "stop",
+      "lang": "en"
+    },
+    {
+      "word": "stopped",
+      "lang": "en"
+    },
+    {
+      "word": "story",
+      "lang": "en"
+    },
+    {
+      "word": "strange",
+      "lang": "en"
+    },
+    {
+      "word": "streamers",
+      "lang": "en"
+    },
+    {
+      "word": "strength",
+      "lang": "en"
+    },
+    {
+      "word": "stretch",
+      "lang": "en"
+    },
+    {
+      "word": "strong",
+      "lang": "en"
+    },
+    {
+      "word": "stronger",
+      "lang": "en"
+    },
+    {
+      "word": "strongest",
+      "lang": "en"
+    },
+    {
+      "word": "submit",
+      "lang": "en"
+    },
+    {
+      "word": "such",
+      "lang": "en"
+    },
+    {
+      "word": "sudden",
+      "lang": "en"
+    },
+    {
+      "word": "suited",
+      "lang": "en"
+    },
+    {
+      "word": "super",
+      "lang": "en"
+    },
+    {
+      "word": "suppose",
+      "lang": "en"
+    },
+    {
+      "word": "sure",
+      "lang": "en"
+    },
+    {
+      "word": "surely",
+      "lang": "en"
+    },
+    {
+      "word": "surprised",
+      "lang": "en"
+    },
+    {
+      "word": "surprisingly",
+      "lang": "en"
+    },
+    {
+      "word": "ta",
+      "lang": "en"
+    },
+    {
+      "word": "tables",
+      "lang": "en"
+    },
+    {
+      "word": "tag",
+      "lang": "en"
+    },
+    {
+      "word": "take",
+      "lang": "en"
+    },
+    {
+      "word": "takes",
+      "lang": "en"
+    },
+    {
+      "word": "taking",
+      "lang": "en"
+    },
+    {
+      "word": "talked",
+      "lang": "en"
+    },
+    {
+      "word": "talking",
+      "lang": "en"
+    },
+    {
+      "word": "tame",
+      "lang": "en"
+    },
+    {
+      "word": "tamed",
+      "lang": "en"
+    },
+    {
+      "word": "tamer",
+      "lang": "en"
+    },
+    {
+      "word": "taming",
+      "lang": "en"
+    },
+    {
+      "word": "tan",
+      "lang": "en"
+    },
+    {
+      "word": "target",
+      "lang": "en"
+    },
+    {
+      "word": "tch",
+      "lang": "en"
+    },
+    {
+      "word": "te",
+      "lang": "en"
+    },
+    {
+      "word": "team",
+      "lang": "en"
+    },
+    {
+      "word": "teaming",
+      "lang": "en"
+    },
+    {
+      "word": "technique",
+      "lang": "en"
+    },
+    {
+      "word": "tell",
+      "lang": "en"
+    },
+    {
+      "word": "telling",
+      "lang": "en"
+    },
+    {
+      "word": "tempted",
+      "lang": "en"
+    },
+    {
+      "word": "ten",
+      "lang": "en"
+    },
+    {
+      "word": "th",
+      "lang": "en"
+    },
+    {
+      "word": "than",
+      "lang": "en"
+    },
+    {
+      "word": "thank",
+      "lang": "en"
+    },
+    {
+      "word": "that",
+      "lang": "en"
+    },
+    {
+      "word": "the",
+      "lang": "en"
+    },
+    {
+      "word": "them",
+      "lang": "en"
+    },
+    {
+      "word": "then",
+      "lang": "en"
+    },
+    {
+      "word": "there",
+      "lang": "en"
+    },
+    {
+      "word": "they",
+      "lang": "en"
+    },
+    {
+      "word": "thing",
+      "lang": "en"
+    },
+    {
+      "word": "things",
+      "lang": "en"
+    },
+    {
+      "word": "think",
+      "lang": "en"
+    },
+    {
+      "word": "thinking",
+      "lang": "en"
+    },
+    {
+      "word": "this",
+      "lang": "en"
+    },
+    {
+      "word": "those",
+      "lang": "en"
+    },
+    {
+      "word": "though",
+      "lang": "en"
+    },
+    {
+      "word": "thought",
+      "lang": "en"
+    },
+    {
+      "word": "three",
+      "lang": "en"
+    },
+    {
+      "word": "throws",
+      "lang": "en"
+    },
+    {
+      "word": "thy",
+      "lang": "en"
+    },
+    {
+      "word": "ti",
+      "lang": "en"
+    },
+    {
+      "word": "till",
+      "lang": "en"
+    },
+    {
+      "word": "time",
+      "lang": "en"
+    },
+    {
+      "word": "to",
+      "lang": "en"
+    },
+    {
+      "word": "today",
+      "lang": "en"
+    },
+    {
+      "word": "toes",
+      "lang": "en"
+    },
+    {
+      "word": "together",
+      "lang": "en"
+    },
+    {
+      "word": "told",
+      "lang": "en"
+    },
+    {
+      "word": "too",
+      "lang": "en"
+    },
+    {
+      "word": "tool",
+      "lang": "en"
+    },
+    {
+      "word": "top",
+      "lang": "en"
+    },
+    {
+      "word": "towards",
+      "lang": "en"
+    },
+    {
+      "word": "train",
+      "lang": "en"
+    },
+    {
+      "word": "translator",
+      "lang": "en"
+    },
+    {
+      "word": "treats",
+      "lang": "en"
+    },
+    {
+      "word": "trick",
+      "lang": "en"
+    },
+    {
+      "word": "trigger",
+      "lang": "en"
+    },
+    {
+      "word": "trolled",
+      "lang": "en"
+    },
+    {
+      "word": "trolling",
+      "lang": "en"
+    },
+    {
+      "word": "trou",
+      "lang": "en"
+    },
+    {
+      "word": "true",
+      "lang": "en"
+    },
+    {
+      "word": "truly",
+      "lang": "en"
+    },
+    {
+      "word": "truth",
+      "lang": "en"
+    },
+    {
+      "word": "try",
+      "lang": "en"
+    },
+    {
+      "word": "trying",
+      "lang": "en"
+    },
+    {
+      "word": "tt",
+      "lang": "en"
+    },
+    {
+      "word": "tum",
+      "lang": "en"
+    },
+    {
+      "word": "turn",
+      "lang": "en"
+    },
+    {
+      "word": "turns",
+      "lang": "en"
+    },
+    {
+      "word": "twist",
+      "lang": "en"
+    },
+    {
+      "word": "two",
+      "lang": "en"
+    },
+    {
+      "word": "ty",
+      "lang": "en"
+    },
+    {
+      "word": "typesetter",
+      "lang": "en"
+    },
+    {
+      "word": "ugh",
+      "lang": "en"
+    },
+    {
+      "word": "uh",
+      "lang": "en"
+    },
+    {
+      "word": "um",
+      "lang": "en"
+    },
+    {
+      "word": "un",
+      "lang": "en"
+    },
+    {
+      "word": "undeniably",
+      "lang": "en"
+    },
+    {
+      "word": "under",
+      "lang": "en"
+    },
+    {
+      "word": "understand",
+      "lang": "en"
+    },
+    {
+      "word": "unleash",
+      "lang": "en"
+    },
+    {
+      "word": "until",
+      "lang": "en"
+    },
+    {
+      "word": "up",
+      "lang": "en"
+    },
+    {
+      "word": "updates",
+      "lang": "en"
+    },
+    {
+      "word": "upper",
+      "lang": "en"
+    },
+    {
+      "word": "us",
+      "lang": "en"
+    },
+    {
+      "word": "use",
+      "lang": "en"
+    },
+    {
+      "word": "used",
+      "lang": "en"
+    },
+    {
+      "word": "using",
+      "lang": "en"
+    },
+    {
+      "word": "ve",
+      "lang": "en"
+    },
+    {
+      "word": "very",
+      "lang": "en"
+    },
+    {
+      "word": "vi",
+      "lang": "en"
+    },
+    {
+      "word": "videos",
+      "lang": "en"
+    },
+    {
+      "word": "view",
+      "lang": "en"
+    },
+    {
+      "word": "volunteer",
+      "lang": "en"
+    },
+    {
+      "word": "wa",
+      "lang": "en"
+    },
+    {
+      "word": "wait",
+      "lang": "en"
+    },
+    {
+      "word": "wake",
+      "lang": "en"
+    },
+    {
+      "word": "wan",
+      "lang": "en"
+    },
+    {
+      "word": "want",
+      "lang": "en"
+    },
+    {
+      "word": "wants",
+      "lang": "en"
+    },
+    {
+      "word": "wart",
+      "lang": "en"
+    },
+    {
+      "word": "wat",
+      "lang": "en"
+    },
+    {
+      "word": "watch",
+      "lang": "en"
+    },
+    {
+      "word": "way",
+      "lang": "en"
+    },
+    {
+      "word": "we",
+      "lang": "en"
+    },
+    {
+      "word": "well",
+      "lang": "en"
+    },
+    {
+      "word": "went",
+      "lang": "en"
+    },
+    {
+      "word": "were",
+      "lang": "en"
+    },
+    {
+      "word": "what",
+      "lang": "en"
+    },
+    {
+      "word": "whatever",
+      "lang": "en"
+    },
+    {
+      "word": "when",
+      "lang": "en"
+    },
+    {
+      "word": "where",
+      "lang": "en"
+    },
+    {
+      "word": "while",
+      "lang": "en"
+    },
+    {
+      "word": "who",
+      "lang": "en"
+    },
+    {
+      "word": "whoa",
+      "lang": "en"
+    },
+    {
+      "word": "why",
+      "lang": "en"
+    },
+    {
+      "word": "wi",
+      "lang": "en"
+    },
+    {
+      "word": "wield",
+      "lang": "en"
+    },
+    {
+      "word": "wild",
+      "lang": "en"
+    },
+    {
+      "word": "will",
+      "lang": "en"
+    },
+    {
+      "word": "willingly",
+      "lang": "en"
+    },
+    {
+      "word": "win",
+      "lang": "en"
+    },
+    {
+      "word": "with",
+      "lang": "en"
+    },
+    {
+      "word": "within",
+      "lang": "en"
+    },
+    {
+      "word": "without",
+      "lang": "en"
+    },
+    {
+      "word": "woman",
+      "lang": "en"
+    },
+    {
+      "word": "wonder",
+      "lang": "en"
+    },
+    {
+      "word": "wondering",
+      "lang": "en"
+    },
+    {
+      "word": "word",
+      "lang": "en"
+    },
+    {
+      "word": "work",
+      "lang": "en"
+    },
+    {
+      "word": "worked",
+      "lang": "en"
+    },
+    {
+      "word": "world",
+      "lang": "en"
+    },
+    {
+      "word": "worried",
+      "lang": "en"
+    },
+    {
+      "word": "worry",
+      "lang": "en"
+    },
+    {
+      "word": "worth",
+      "lang": "en"
+    },
+    {
+      "word": "would",
+      "lang": "en"
+    },
+    {
+      "word": "wow",
+      "lang": "en"
+    },
+    {
+      "word": "write",
+      "lang": "en"
+    },
+    {
+      "word": "written",
+      "lang": "en"
+    },
+    {
+      "word": "wrong",
+      "lang": "en"
+    },
+    {
+      "word": "www",
+      "lang": "en"
+    },
+    {
+      "word": "xi",
+      "lang": "en"
+    },
+    {
+      "word": "xxx",
+      "lang": "en"
+    },
+    {
+      "word": "ya",
+      "lang": "en"
+    },
+    {
+      "word": "yea",
+      "lang": "en"
+    },
+    {
+      "word": "yeah",
+      "lang": "en"
+    },
+    {
+      "word": "year",
+      "lang": "en"
+    },
+    {
+      "word": "yes",
+      "lang": "en"
+    },
+    {
+      "word": "yesterday",
+      "lang": "en"
+    },
+    {
+      "word": "yet",
+      "lang": "en"
+    },
+    {
+      "word": "you",
+      "lang": "en"
+    },
+    {
+      "word": "yourself",
+      "lang": "en"
+    }
+  ]
+}

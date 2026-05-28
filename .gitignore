@@ -1,0 +1,24 @@
+﻿# Binarios compilados
+AutoScribe.exe
+AutoScribe_v1_0.pyc
+python-embed.zip
+
+# Build de Nuitka
+launcher.build/
+launcher.dist/
+launcher.onefile-build/
+
+# Instalador (va como GitHub Release, no en el repo)
+Installer_Output/
+
+# Datos de usuario
+autoscribe_users.json
+assets/keys/
+assets/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+assets/fondos/
