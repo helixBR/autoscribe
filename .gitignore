@@ -21,3 +21,7 @@ Installer_Output/
 *.build/
 *.dist/
 *.onefile-build/
+
+autoscribe_config.json
+autoscribe_users.json
+*.exe
